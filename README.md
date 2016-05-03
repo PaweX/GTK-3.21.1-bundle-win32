@@ -8,8 +8,4 @@ A few .exe files in the bin folder might be missing due to compilation issues. H
 
 
 
-GTK+ 3.21.1 win32
-
-Built in Visual Studio 2013
-
-03.05.2016
+GTK+ 3.21.1 win32 ---- Built in Visual Studio 2013 ---- 03.05.2016
